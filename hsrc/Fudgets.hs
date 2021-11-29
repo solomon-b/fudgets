@@ -52,7 +52,7 @@ module Fudgets(
  (>#+<), (>#==<), (>==<), (>^=<), (>^^=<),
  prepostMapHigh,
 
- quitIdF, quitF,
+ quitIdF, quitF, quitButtonF,
 
  DynFMsg(..), dynF, dynListF, DynMsg(..), --Either(..),
  FudgetIO(..),
